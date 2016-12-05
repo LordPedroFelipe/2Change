@@ -2,7 +2,6 @@ Oxigenar - Hackathon de saúde - Evento Joinville - SC 02,03,04/12/2016
 
 Equipe SecondChance - 2Chance
 Prevenção de doenças crônicas
-Foco case: Diabetes 
 
 Utilizado Tecnologias IBM Bluemix - Node Red - Watson Conversation
 
