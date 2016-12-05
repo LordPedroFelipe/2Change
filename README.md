@@ -1,3 +1,26 @@
+Oxigenar - Hackathon de saúde - Evento Joinville - SC 02,03,04/12/2016
+
+Equipe SecondChance - 2Chance
+Prevenção de doenças crônicas
+Foco case: Diabetes 
+
+Utilizado Tecnologias IBM Bluemix - Node Red - Watson Conversation
+
+Criado um serviço para enviar notificações (Móveis, E-mail, SMS) automaticamente usando o serviço com uma instância do Node-RED. 
+A idéia final será consumir esse Serviço para:
+ - Alertar pacientes sobre sua Rotina de Tratamento
+ - Informar com Conteúdos Inteligentes sobre sua condição
+   
+A ideia será construir uma aplicação para:
+ - Centralizar informações do Paciente, para fácil acompanhamento.
+ - Integrar resultados de exames com Laboratórios
+ - Alertar pacientes sobre sua Rotina de Tratamento (Consultas, Exames)
+ - Informar com Conteúdos Inteligentes sobre sua condição
+
+Link do descritivo: https://www.youtube.com/watch?v=jfqijmzr-U0
+
+
+
 This README.md file is displayed on your project page. You should edit this 
 file to describe your project, including instructions for building and 
 running the project, pointers to the license under which you are making the 
